@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PLCSimulator
+namespace Mirle.AK1.PLCSimulator
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
